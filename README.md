@@ -29,13 +29,9 @@ AdventureGame/
 │ ├── Vampire.java
 │ ├── Bear.java
 │ └── ... # Diğer sınıflar
-└── README.md # Proje açıklaması (bu dosya)
+└── README.md # Proje açıklaması 
 
-yaml
-Copy
-Edit
 
----
 
 ## Nasıl Çalıştırılır?
 
